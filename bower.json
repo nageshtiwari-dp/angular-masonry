@@ -1,0 +1,15 @@
+{
+  "name": "dp-geo-location",
+  "version": "1.0.0",
+  "description": "Geo Location Library",
+  "author": "Nageshwar Tiwari",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
