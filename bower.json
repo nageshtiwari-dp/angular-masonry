@@ -1,7 +1,7 @@
 {
-  "name": "dp-geo-location",
+  "name": "angular-masonry",
   "version": "1.0.0",
-  "description": "Geo Location Library",
+  "description": "Angular directive for masonry layout",
   "author": "Nageshwar Tiwari",
   "dependencies": {
   },
